@@ -1,4 +1,4 @@
-![Ionia logo](ionia_logo.png)
+![Ionia logo](profile/ionia_logo.png)
 
 We operate a fleet of motor tankers engaged in international trading. Established almost 30 years ago, the company operates from Piraeus and provides high quality services in an effective, efficient, safe and environmentally friendly manner.  
 
