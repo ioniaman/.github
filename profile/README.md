@@ -10,5 +10,5 @@ We leverage our business using high quality software, developed in-house, utiliz
 # Contact us
 <details>
 <summary>Email</summary>
-<dev@ioniaman.gr>
+[dev@ioniaman.gr](dev@ioniaman.gr)
 </details>
